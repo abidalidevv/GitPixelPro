@@ -68,3 +68,4 @@
 // Improve exception messages - 2017-06-29 10:03:00
 // Fix memory leak in iterator - 2020-10-04 10:13:00
 // Extract reusable functions - 2017-05-28 10:09:00
+// Add logging statements - 2017-04-12 10:05:00
