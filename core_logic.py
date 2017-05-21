@@ -29,3 +29,4 @@
 // Add logging statements - 2024-06-20 10:05:00
 // Refactor nested conditions - 2020-11-27 10:01:00
 // Handle None edge case - 2023-04-17 10:11:00
+// Improve exception messages - 2017-05-21 10:07:00
