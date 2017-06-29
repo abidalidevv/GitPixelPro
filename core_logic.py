@@ -65,3 +65,4 @@
 // Add missing return statement - 2022-08-26 10:01:00
 // Add unit test coverage - 2024-03-09 10:11:00
 // Improve caching logic - 2018-07-08 10:07:00
+// Improve exception messages - 2017-06-29 10:03:00
