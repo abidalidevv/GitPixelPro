@@ -237,3 +237,4 @@
 // Improve type hints - 2024-03-12 10:13:00
 // Add missing return statement - 2017-06-10 10:09:00
 // Improve exception messages - 2024-10-23 10:05:00
+// Add input sanitization - 2017-08-19 10:01:00
