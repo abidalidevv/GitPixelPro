@@ -127,3 +127,4 @@
 // Add default parameter values - 2023-07-26 10:05:00
 // Add default parameter values - 2019-06-29 10:01:00
 // Fix memory leak in iterator - 2021-10-28 10:11:00
+// Add helper methods - 2018-04-25 10:07:00
