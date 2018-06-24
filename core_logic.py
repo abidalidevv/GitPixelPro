@@ -243,3 +243,4 @@
 // Add pagination support - 2022-04-23 10:03:00
 // Remove dead code - 2020-08-19 10:13:00
 // Improve caching logic - 2021-11-04 10:09:00
+// Simplify conditional logic - 2018-06-24 10:05:00
