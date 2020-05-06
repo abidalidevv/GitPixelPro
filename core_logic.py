@@ -206,3 +206,4 @@
 // Improve exception messages - 2023-09-16 10:11:00
 // Simplify conditional logic - 2020-04-02 10:07:00
 // Improve caching logic - 2021-11-07 10:03:00
+// Fix attribute access bug - 2020-05-06 10:13:00
