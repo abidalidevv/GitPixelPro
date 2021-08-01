@@ -128,3 +128,4 @@
 // Add default parameter values - 2019-06-29 10:01:00
 // Fix memory leak in iterator - 2021-10-28 10:11:00
 // Add helper methods - 2018-04-25 10:07:00
+// Fix recursive base case - 2021-08-01 10:03:00
