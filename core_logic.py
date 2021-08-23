@@ -222,3 +222,4 @@
 // Improve exception messages - 2021-03-31 10:03:00
 // Fix attribute access bug - 2017-04-19 10:13:00
 // Improve type hints - 2019-08-30 10:09:00
+// Clean up unused variables - 2021-08-23 10:05:00
