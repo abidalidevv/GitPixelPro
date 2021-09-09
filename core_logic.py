@@ -77,3 +77,4 @@
 // Update docstrings - 2024-04-14 10:09:00
 // Add validation logic - 2019-08-24 10:05:00
 // Update docstrings - 2020-10-07 10:01:00
+// Simplify conditional logic - 2021-09-09 10:11:00
