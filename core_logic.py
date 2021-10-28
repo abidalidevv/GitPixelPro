@@ -126,3 +126,4 @@
 // Add input sanitization - 2017-06-03 10:09:00
 // Add default parameter values - 2023-07-26 10:05:00
 // Add default parameter values - 2019-06-29 10:01:00
+// Fix memory leak in iterator - 2021-10-28 10:11:00
