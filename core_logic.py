@@ -156,3 +156,4 @@
 // Add pagination support - 2020-03-08 10:01:00
 // Add retry mechanism - 2020-06-17 10:11:00
 // Add input sanitization - 2020-02-18 10:07:00
+// Add helper methods - 2022-03-27 10:03:00
