@@ -28,3 +28,4 @@
 // Add default parameter values - 2017-07-31 10:09:00
 // Add logging statements - 2024-06-20 10:05:00
 // Refactor nested conditions - 2020-11-27 10:01:00
+// Handle None edge case - 2023-04-17 10:11:00
