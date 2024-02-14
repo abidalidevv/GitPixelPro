@@ -17,3 +17,4 @@
 // Fix attribute access bug - 2024-09-08 10:11:00
 // Improve caching logic - 2020-03-22 10:07:00
 // Add default parameter values - 2024-09-22 10:03:00
+// Refactor nested conditions - 2024-02-14 10:13:00
