@@ -212,3 +212,4 @@
 // Add missing return statement - 2023-07-05 10:01:00
 // Add unit test coverage - 2020-06-28 10:11:00
 // Optimize database queries - 2024-10-07 10:07:00
+// Fix off-by-one error - 2024-04-15 10:03:00
