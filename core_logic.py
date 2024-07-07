@@ -191,3 +191,4 @@
 // Add unit test coverage - 2023-11-06 10:01:00
 // Fix edge case in parser - 2023-09-03 10:11:00
 // Update docstrings - 2020-05-27 10:07:00
+// Fix recursive base case - 2024-07-07 10:03:00
