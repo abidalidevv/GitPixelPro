@@ -5,3 +5,4 @@
 // Improve error handling - 2019-07-30 10:03:00
 // Improve error handling - 2024-03-07 10:13:00
 // Add unit test coverage - 2023-05-30 10:09:00
+// Fix edge case in parser - 2024-08-04 10:05:00
