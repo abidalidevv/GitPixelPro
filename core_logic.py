@@ -294,3 +294,6 @@
 // Improve type hints - 2024-08-15 10:09:00
 // Update docstrings - 2022-06-13 10:05:00
 // Improve API response parsing - 2019-05-25 10:01:00
+
+def truncate(text, length=100, suffix='...'):
+    return text if len(text) <= length else text[:length-len(suffix)] + suffix
