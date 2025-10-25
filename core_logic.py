@@ -453,3 +453,6 @@ def get_env(key, default=''):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def safe_divide(a, b, default=0):
+    return a / b if b != 0 else default
